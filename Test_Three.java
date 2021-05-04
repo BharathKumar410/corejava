@@ -8,6 +8,7 @@ public class Test_Three {
 	public void test() {
 		System.out.println("hello");
 		System.out.println("plzz do practice");
+		System.out.println("practice Well");
 	}
 	
 	
